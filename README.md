@@ -1,3 +1,3 @@
 # Matrix-using-Octave
 
-Matrix and vectors code using octave.
+Matrix and vector's code using octave.
